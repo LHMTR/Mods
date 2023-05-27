@@ -1,7 +1,13 @@
-{
-  "custom_train":
-      "CRH6J":
-          "name":"CRH6J"
-          "color":"114514"
-          "base_train_type":""
-          "texture_id":""
+ {
+     "custom_train":
+        "LHHSR-Train-1"
+             "name":"绿海初代高速铁|LHHSR First Train"
+             "color":"114514"
+             "base_train_type":"hsr"
+             "texture_id":""
+        },
+        "LHHSR-Train-2"
+            "name":"绿海300千米高速铁|LHHSR 300 KM Train"
+            "color":"114514"
+            "base_train_type":"hsr"
+            "texture_id":""
