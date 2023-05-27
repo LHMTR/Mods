@@ -14,3 +14,4 @@
 
 ## 网页
 [贡献者指南](https://github.com/LHMTR/Mods/tree/主文件-Main/主要文件/CONTRIBUTING.md)
+[Slack频道](https://app.slack.com/client/T059VQ81R6G/C05A5ULG7EV?cdn_fallback=1)
