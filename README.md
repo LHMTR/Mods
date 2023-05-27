@@ -13,4 +13,4 @@
 面议
 
 ## 网页
-[贡献者名单](https://github.com/LHMTR/Mods/tree/主文件-Main/主要文件/CONTRIBUTING.md)
+[贡献者指南](https://github.com/LHMTR/Mods/tree/主文件-Main/主要文件/CONTRIBUTING.md)
