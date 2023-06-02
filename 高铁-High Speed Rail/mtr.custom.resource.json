@@ -1,5 +1,5 @@
  {
-     "custom_train":
+     "custom_trains":
         "LHHSR-Train-1"
              "name":"绿海初代高速铁|LHHSR First Train"
              "color":"114514"
@@ -17,4 +17,7 @@
             "color":"114514"
             "base_train_type":"hsr"
             "texture_id":""
-       
+       }
+   }
+   "custom_signs":
+}
