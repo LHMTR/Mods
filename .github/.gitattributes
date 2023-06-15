@@ -1,0 +1,3 @@
+*.js linguest-language=java
+*.css linguest-language=java
+*.html linguest-language=java
