@@ -7,18 +7,7 @@ about: 如果您有新的模组建议，请使用这个issue｜If you have a new
 
 **描述｜Description:** [请在这里添加模组的描述｜Please add a description of the module here.]
 
-**Related Issues:** [List the issue numbers related to this issue]
+**版本｜Ver:**[请写出现在有的我的世界版本｜Please write the version that appears in some Minecraft.]
 
-**Checklist:**
+**Labels:** [模组/Mod]
 
-- [ ]  The existence of this issue has been confirmed
-- [ ]  The importance and urgency of this issue have been confirmed
-- [ ]  The responsible person for this issue has been confirmed
-- [ ]  The solution for this issue has been confirmed
-- [ ]  The testing method for this issue has been confirmed
-
-**Labels:** [Add appropriate labels]
-
-**Assignees:** [Assign the responsible person for this issue]
-
-**Priority:** [Set the priority for this issue]
