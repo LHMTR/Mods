@@ -1,5 +1,5 @@
 ---
-name: 错误|Bug
+name: 错误 Bug
 about: 有错误？请使用这个issue来告诉我们|A Bug？Please use this issue to tell us.
 title: ''
 labels: 错误（bug）
