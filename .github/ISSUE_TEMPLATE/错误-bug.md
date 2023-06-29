@@ -1,6 +1,6 @@
 ---
-name: 错误｜Bug
-about: 有错误？请使用这个issue来告诉我们｜A Bug？Please use this issue tell me.
+name: 错误|Bug
+about: 有错误？请使用这个issue来告诉我们|A Bug？请用这个问题告诉我。
 title: ''
 labels: 错误（bug）
 assignees: YYLWZDXPGD
