@@ -12,3 +12,9 @@ Obtain official permission from the MIT and the LHMTR government
 ### 第二周/Second Week
 6.12
 删除高铁原代码并重新编写
+
+## 7月/July
+### 第二周/Second Week
+7.13
+耗时一个月终于写完了高铁！
+（泰鸽辣！）
