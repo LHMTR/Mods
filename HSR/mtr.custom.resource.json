@@ -10,4 +10,8 @@
         "train_2"
         "name":"矿洞风格列车|Cave train"
         "color":"114514"
-        "
+        "base_train_type":"sp1900"
+        "texture_id":"HSR/ct"
+        }
+    }
+}
