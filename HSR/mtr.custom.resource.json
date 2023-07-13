@@ -1,0 +1,13 @@
+{
+  {
+    "custom_trains"
+        "train_1"
+        "name":"下界风格列车|Nether train"
+        "color":"114514"
+        "base_train_type":"sp1900"
+        "texture_id":"HSR/nt"
+        },
+        "train_2"
+        "name":"矿洞风格列车|Cave train"
+        "color":"114514"
+        "
